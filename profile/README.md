@@ -2,7 +2,7 @@
 
 # ![Sym8](https://sym8.io/app/public/logo-sym8-2025.svg)
 
-🚀 **Public release:** September 15, 2025
+🚀 **Public release:** September 15, 2025  
 🌐 Website: [sym8.io](https://sym8.io)
 
 ## 🌀 What is Sym8?
