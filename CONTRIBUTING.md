@@ -10,6 +10,8 @@ Thank you for your interest in contributing! 🎉
   - Steps to reproduce
 - __Feature requests__: Use the feature request template to describe the problem and your idea.
 - __Pull requests__: Fork the repository and open a PR against the `integration` branch.
+- All commits must be signed. Unsigned commits cannot be merged.
+- Tags and releases are signed by the maintainer.
 
 ## Coding Guidelines
 - Follow PSR-12 coding style.
